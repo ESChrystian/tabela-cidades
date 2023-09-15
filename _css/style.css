@@ -1,0 +1,36 @@
+table, td, th, tr{
+    border: solid 1px black; /*Coloca Contorno, Cor e largura na tabela*/
+ 
+ }
+ td{
+     width: 150px; /*Largura*/
+     height: 20px; /*altura*/
+     
+ }
+ th{
+     color: rgb(0, 0, 0); /*Muda cor*/   
+     height:30px; /*altura*/
+     background-color: rgb(50, 223, 44); /*Muda cor*/   
+ }
+ table{
+     border-collapse: collapse; /*Une as linhas da tabela*/
+     
+ }
+ th, td,tr {
+     padding: 10px; /*Aumenta os Botões em todas as direções*/
+ }
+ tr:hover { /*Muda a cor do cursor*/
+     background-color: #c9caca /*Muda cor*/   
+ }
+ h1{
+    
+    padding-left:500px;
+ }
+ 
+    
+
+
+ 
+ 
+ 
+ 
